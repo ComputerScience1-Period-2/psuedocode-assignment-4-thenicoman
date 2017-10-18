@@ -1,0 +1,36 @@
+Aidan Nico - 10/18/17 - 2nd period
+Psuedocode assignment - Fluxx
+
+RULES
+(This is a 2 to 6 player game and has multiple expansions and variants that can be added in)
+Find the Basic rules card and place it down (Draw one, play one)
+Shuffle Deck of cards
+Once shuffled, give 3 cards to each player
+There are 5 kinds of cards, Action, Goal, Keeper, Creeper and Rule cards
+Action cards have written actions on them that you can use for any part of a game
+Goal cards are used to win the game, if you have the required Keeper card or the specified Creeper card, you win the game
+Keeper cards can be played on your turn and help for getting the goal, you can win if you have the specified cards, even if you have any other keepers that aren't involved with the goal cards
+Creeper cards cannot be held in your hand of cards and must be played immediately if drawn from the deck of cards
+You cannot win if you have creepers in play, even if you have the required Keepers for the goal card (Can be discarded with a specific Action card)
+Rule cards are used to change the rules of the game and must be enacted when played down (i.e. draw 2 card, you draw an extra card after drawing one from the deck at the start of your turn after playing the card down)
+If someone was given a Creeper card, place back in the deck, draw a new card and reshuffle
+Turn order and play is determined by the other players
+After turn order has been decided, the order of play will go in a clockwise motion
+Action cards can be used during your turn and will be put into the discard pile once used
+Double Agenda is a rule card that can be played down and held into effect where you can have 2 goal cards in play at the same time
+You can win the game with either goal card if Double Agenda is still in play at the end of the game
+There can only be one goal card out in play, so when one more goal card is placed down, the other goal card must be discarded unless the rule card for Double Agenda is out in play
+Hand Limit rule cards are defined from 0 to 5
+Play rules can range from play 2, to play all (Play rules will never exceed the numeric value of 5)
+Draw rules can range from draw 2 to draw 5
+Keeper limit can be used to limit the keepers in your hand, it can range from 2 to 4 keepers depending on the card itself
+Silver Lining is a special rule card that can be used to stop creepers from preventing you from winning, however you still cannot hold creepers in your hand if you draw one
+No hand bonus is a rule card that can be played where the player gets 3 extra cards added to their hand if they end their turn with zero cards in their hand (This rule is null and void with hand limit zero)
+Inflation is a rule card that makes it where all values of every rule in play are 1 extra than the original value (draw 1 play 1 would now be draw 2 play 2)
+Poor bonus is a rule card that can be played, if you have the least amount of cards out of everyone in the game, you get an extra card
+Rich bonus is a rule card that is the opposite of poor bonus, where if you have the most cards in the game, you get an extra card
+Party bonus is a rule card where you get an extra card if you have the party keeper in play
+Get on with it is a rule card that can be played where you discard your hand at the end of your turn and draw another hand of 3 cards
+You also need a potato is a rule card where you are required to have the radioactive potato creeper card to win along with the keepers specified in the goal card in play.
+First play random is a rule card that makes you play a random card in your hand without looking after drawing the card.
+If you meet the conditions for the goal cards, you win 
